@@ -1,8 +1,6 @@
 **State:** `dp[x]` = Number of ways to obtain a sum of `x`.
 
-**Base Case:** ```cpp
-dp[0] = 1;
-```
+**Base Case:** ```dp[0] = 1;```
 
 There is exactly one way to obtain a sum of `0`: choose no dice (the empty sequence).
 
