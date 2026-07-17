@@ -1,4 +1,4 @@
-**State:** `dp[x]` = Number of ways to obtain a sum of `x`.
+**State:** dp[x] = Number of ways to obtain a sum of `x`.
 
 **Base Case:** ```cpp
 dp[0] = 1;
