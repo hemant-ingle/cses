@@ -9,6 +9,7 @@
 > The problem guarantees that the sequence eventually reaches `1` for the given constraints.
 
 **Time Complexity:** *O(k),* **Space Complexity:** *O(1).*
+
 Where `k` is the number of terms generated in the Collatz sequence until reaching `1`. Since the exact number of steps is unknown, it cannot be expressed solely in terms of the input value `n`.
 
 ```cpp
